@@ -11,10 +11,12 @@ const Products = () => {
   });
 
   if (isLoading) {
+    // Add Loading Indicator => skeleton, sippner or something prefer
     return <p>Loading...</p>;
   }
 
   if (isError) {
+    // Display Error if Happens
     return <p>error</p>;
   }
 
