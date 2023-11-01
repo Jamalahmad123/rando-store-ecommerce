@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .text-dark-medium {
+    @apply text-gray-900 font-medium text-base;
+  }
+
+  .heading-primary {
+    @apply text-2xl sm:text-3xl md:text-4xl font-semibold;
+  }
+
+  .heading-secondary {
+    @apply text-black font-semibold text-lg sm:text-xl;
+  }
+
+  .flex-left {
+    @apply flex items-center;
+  }
+
+  .flex-btw {
+    @apply flex items-center justify-between;
+  }
+}
