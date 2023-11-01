@@ -16,15 +16,15 @@ Rando Store is a web application built using React, Context API, Tailwind CSS, a
 
 ## Approach
 
-We followed best practices to ensure a clean and maintainable codebase. Here's an overview of our approach:
+Followed best practices to ensure a clean and maintainable codebase. Here's an overview of my approach:
 
-- **UI Design**: We built the user interface using React and styled it with Tailwind CSS. This allowed us to create a modern and responsive design.
+- **UI Design**: built the user interface using React and styled it with Tailwind CSS. This allowed me to create a modern and responsive design.
 
-- **Global State Management**: We utilized the Context API for managing global state, ensuring data can be shared across various components efficiently.
+- **Global State Management**: utilized the Context API for managing global state, ensuring data can be shared across various components efficiently.
 
 - **Data Fetching**: React Query is used for efficient data fetching and state management, enhancing the application's performance.
 
-- **Folder Structure**: We organized our project into the following directories:
+- **Folder Structure**: Organized project into the following directories:
 
   - `components`: Reusable UI components.
   - `assets`: Images, icons, and other assets.
