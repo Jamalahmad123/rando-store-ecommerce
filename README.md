@@ -48,6 +48,11 @@ Rando Store offers the following key features:
 
 ## Screenshots
 
-![Rando Store Screenshot 1](src/assets/screenshots/screenshot1.png)
-![Rando Store Screenshot 2](src/assets/screenshots/screenshot2.png)
+![Rando Store Screenshot 1](src/assets/screenshots/screenshot8.png)
+![Rando Store Screenshot 2](src/assets/screenshots/screenshot1.png)
+![Rando Store Screenshot 3](src/assets/screenshots/screenshot2.png)
 ![Rando Store Screenshot 3](src/assets/screenshots/screenshot3.png)
+![Rando Store Screenshot 3](src/assets/screenshots/screenshot4.png)
+![Rando Store Screenshot 3](src/assets/screenshots/screenshot5.png)
+![Rando Store Screenshot 3](src/assets/screenshots/screenshot6.png)
+![Rando Store Screenshot 3](src/assets/screenshots/screenshot7.png)
